@@ -41,7 +41,6 @@ ________________________________________________________________________________
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769742e706e67](https://user-images.githubusercontent.com/91322472/157909724-f7e2920b-4c2b-4803-8980-d8ba0f51cb9a.png)
 ![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a656e6b696e732f6a656e6b696e732d69636f6e2e737667](https://user-images.githubusercontent.com/91322472/157909744-d73210c0-1e85-4817-a811-d8161bef78e1.svg)
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656475782e706e67](https://user-images.githubusercontent.com/91322472/157909755-dd1d2e3c-8973-42ed-af69-5e56ebb686e4.png)
-![android-original-wordmark](https://user-images.githubusercontent.com/91322472/157909997-53933fe4-7941-4bfb-bcca-7f6e43587c9d.svg)
-![68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667](https://user-images.githubusercontent.com/91322472/157910010-edb925a8-b24f-4886-8cce-5fc8c7882028.svg)
-![amazonwebservices-original-wordmark](https://user-images.githubusercontent.com/91322472/157910048-518bec23-94a5-4384-91a7-d30c325e6903.svg)
-!
+!(https://user-images.githubusercontent.com/91322472/157910594-e65b43b7-3652-4c2c-8ce2-d89af2f68cfb.svg)
+
+
