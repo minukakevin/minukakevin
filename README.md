@@ -6,6 +6,10 @@
 
 ![Developer](https://user-images.githubusercontent.com/91322472/157911695-51c49b29-69ce-4de7-ae69-6a499e68509d.gif)
 
+👉What does a telegram bot do?
+
+Telegram bots are small programs that can embed in Telegram chats or public channels and perform a specific function. They can offer customized keyboards, produce cat memes on demand, or even accept payments and act as a digital storefront
+
 _____________________________________________________________________________________________________________________________
 
 I'm a Terror Full Training Developer from Sri lanka.
