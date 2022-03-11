@@ -3,6 +3,9 @@
 ![wave](https://user-images.githubusercontent.com/91322472/157908219-713179dd-be1d-43ae-ae91-295b8b045255.gif)
 
 # Hi 🖐  , I'm Minuka Kevin
+
+![Developer](https://user-images.githubusercontent.com/91322472/157911695-51c49b29-69ce-4de7-ae69-6a499e68509d.gif)
+
 _____________________________________________________________________________________________________________________________
 
 I'm a Terror Full Training Developer from Sri lanka.
