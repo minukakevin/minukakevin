@@ -70,6 +70,33 @@ ________________________________________________________________________________
 
 Telegram does encrypt your messages as they travel between your device and the Telegram server, but these messages sit on the server so you can access them from multiple devices. A breach of Telegram's servers could thus result in your messages being exposed
 
+👉 Is Telegram better than WhatsApp?
+
+-So, you now know that WhatsApp is – overall – a more secure option for sending messages, photos and videos than Telegram, especially if you chat in groups a lot. It also gives you the same end-to-end encryption for voice and video calls.
+
+👉 Why Telegram is used?
+
+-Telegram is a popular cross-platform messaging app that is widely used because it offers some enhanced privacy and encryption features as well as support for large group chat features.
+
+👉 Is Telegram banned in Russia?
+
+-Telegram's appeal to the Russian Supreme Court has been rejected. In April 2020, the Government of Russia started using the blocked Telegram platform to spread information related to COVID-19 outbreak. On 18 June 2020 Roskomnadzor lifted its ban on Telegram after it 'agrees to help with extremism investigations'
+
+👉 Who uses Telegram the most?
+
+-Telegram. Telegram's penetration averages around 30% in its top three countries, with Russia winning at 36%. Unique installs are also the highest in Russia at 5.6 million between January – March 2021. Italy outperforms Spain, especially when comes to DAUs and MAUs.
+
+👉 Who owns the Telegram app?
+
+-Who owns the Telegram app?
+Pavel Durov
+Pavel Durov is the founder and owner of messaging app Telegram, which has more than 500 million users worldwide. Durov has made Telegram free to use; it competes with messaging apps like WhatsApp, which is owned by Facebook.
+
+
+
+
+
+
 
 
 
