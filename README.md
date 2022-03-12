@@ -61,6 +61,8 @@ ________________________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/91322472/157997356-3dadccac-a733-4fba-89e7-893104e064ae.png)
 
+# Telegram 
+![tg-desctop-1-png-1](https://user-images.githubusercontent.com/91322472/157998386-ce5298e6-63ac-4b85-a6fe-a1ab0e5883ee.gif)
 
 
 
