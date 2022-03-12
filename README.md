@@ -8,7 +8,7 @@
 
 👉What does a telegram bot do?
 
-Telegram bots are small programs that can embed in Telegram chats or public channels and perform a specific function. They can offer customized keyboards, produce cat memes on demand, or even accept payments and act as a digital storefront
+-Telegram bots are small programs that can embed in Telegram chats or public channels and perform a specific function. They can offer customized keyboards, produce cat memes on demand, or even accept payments and act as a digital storefront
 
 _____________________________________________________________________________________________________________________________
 
@@ -52,7 +52,7 @@ ________________________________________________________________________________
 
 
 
-# Connect with me
+# Connect with me 👍
 
 ![image](https://user-images.githubusercontent.com/91322472/157911218-ae5bc8ba-5539-4d95-b8e1-a03230d2328f.png)
 ![image](https://user-images.githubusercontent.com/91322472/157911322-0b659a52-7fd8-41ab-938f-9c5546afd41c.png)
@@ -61,8 +61,16 @@ ________________________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/91322472/157997356-3dadccac-a733-4fba-89e7-893104e064ae.png)
 
-# Telegram 
+# Telegram 🔺
 ![tg-desctop-1-png-1](https://user-images.githubusercontent.com/91322472/157998386-ce5298e6-63ac-4b85-a6fe-a1ab0e5883ee.gif)
+
+👉 Why Telegram is not recommended?
+
+-Telegram Chats Aren't End-to-End Encrypted by Default
+
+Telegram does encrypt your messages as they travel between your device and the Telegram server, but these messages sit on the server so you can access them from multiple devices. A breach of Telegram's servers could thus result in your messages being exposed
+
+
 
 
 
