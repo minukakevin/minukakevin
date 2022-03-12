@@ -92,8 +92,19 @@ Telegram does encrypt your messages as they travel between your device and the T
 Pavel Durov
 Pavel Durov is the founder and owner of messaging app Telegram, which has more than 500 million users worldwide. Durov has made Telegram free to use; it competes with messaging apps like WhatsApp, which is owned by Facebook.
 
+👉  Is Telegram a cheating app?
 
+-Telegram isn't only for having affairs. Many people use this app - not just people who are cheating. Telegram is another common chat app like Signal or WhatsApp. However, there are pieces of this app that can be used for infidelity.
 
+👉 Should I join Telegram?
+
+-Telegram provides unlimited storage. This means all your text messages, images media files & documents will be saved on their cloud. You can log out and log in any number of times from any number of devices simultaneously without losing any data, you don't need to worry about backup & restore.
+
+👉  Can Telegram be tracked?
+
+-Hard to track, hard to catch
+
+The information shared in Telegram is encrypted and only accessible to people in the chat. There is even a feature to completely delete messages after a certain time. That makes it harder for law enforcement to track down illegal activity and the people behind it
 
 
 
